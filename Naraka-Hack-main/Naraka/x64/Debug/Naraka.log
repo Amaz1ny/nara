@@ -1,0 +1,58 @@
+﻿  Driver.cpp
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Driver.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Hack.cpp
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Driver.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Sdk.h(175,41): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TCHAR *”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“HMODULE”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(55,13): warning C4313: “printf”: 格式字符串中的“%X”与“HMODULE”类型的参数 2 冲突
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(56,35): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(56,35): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TCHAR *”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“HMODULE”
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(63,13): warning C4313: “printf”: 格式字符串中的“%X”与“HMODULE”类型的参数 2 冲突
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(64,36): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(64,36): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(163,19): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(177,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(177,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Hack.cpp(192,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Main.cpp
+  Nvidia.cpp
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(155,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(157,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(157,49): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(172,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(174,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(174,49): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(189,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(191,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(191,49): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(207,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(209,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(209,49): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(224,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(226,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(226,49): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(241,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(243,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(243,49): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(248,36): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(248,33): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(248,58): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Nvidia.cpp(248,54): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+  Pch.cpp
+  SDK.cpp
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\Driver.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zx\Desktop\Naraka-Hack-main\Naraka\sdk.h(175,41): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  Naraka.vcxproj -> C:\Users\zx\Desktop\Naraka-Hack-main\x64\Debug\Naraka.exe
